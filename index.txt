@@ -6,7 +6,7 @@
 
   </head>
   <body>
-      <h1>I really love page</h1>
+      <h1>This page use to refer the git changes</h1>
       <p>Hello world!</p>
   </body>
 
